@@ -2508,18 +2508,18 @@
   "faucets": [],
   "infoURL": "https://firachain.com"
 }, {
-  "name": "X Layer Testnet",
+  "name": "X Layer Testnet(Deprecated)",
   "chainId": 195,
-  "shortName": "tokb",
+  "shortName": "tokb-dep",
   "networkId": 195,
   "nativeCurrency": {
-    "name": "X Layer Global Utility Token in testnet",
-    "symbol": "OKB",
+    "name": "X Layer Global Utility Token in testnet(Deprecated)",
+    "symbol": "OKBDep",
     "decimals": 18
   },
-  "rpc": ["https://testrpc.xlayer.tech", "https://xlayertestrpc.okx.com"],
-  "faucets": ["https://www.okx.com/xlayer/faucet"],
-  "infoURL": "https://www.okx.com/xlayer"
+  "rpc": [],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "X Layer Mainnet",
   "chainId": 196,
@@ -3858,7 +3858,7 @@
   },
   "rpc": ["https://rpc.capitalexchange.com", "https://rpc.capitalexchange.digital"],
   "faucets": [],
-  "infoURL": "https://www.capitalexchange.com"
+  "infoURL": "https://about.capitalexchange.com"
 }, {
   "name": "TSC Mainnet",
   "chainId": 345,
@@ -9657,6 +9657,19 @@
   "rpc": ["https://mainnet.d-chain.network/ext/bc/2ZiR1Bro5E59siVuwdNuRFzqL95NkvkbzyLBdrsYR9BLSHV7H4/rpc"],
   "faucets": [],
   "infoURL": ""
+}, {
+  "name": "X Layer Testnet",
+  "chainId": 1952,
+  "shortName": "tokb",
+  "networkId": 1952,
+  "nativeCurrency": {
+    "name": "X Layer Global Utility Token in testnet",
+    "symbol": "OKB",
+    "decimals": 18
+  },
+  "rpc": ["https://testrpc.xlayer.tech", "https://xlayertestrpc.okx.com"],
+  "faucets": ["https://www.okx.com/xlayer/faucet"],
+  "infoURL": "https://web3.okx.com/xlayer"
 }, {
   "name": "Selendra Network Testnet",
   "chainId": 1953,
@@ -23061,6 +23074,19 @@
   "faucets": [],
   "infoURL": "https://www.reddio.com"
 }, {
+  "name": "ASHCHAIN",
+  "chainId": 50366,
+  "shortName": "ash",
+  "networkId": 50366,
+  "nativeCurrency": {
+    "name": "ASH",
+    "symbol": "ASH",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc.ashchain.io", "https://evm-rpc2.ashchain.io"],
+  "faucets": ["https://ashchain.io/faucet"],
+  "infoURL": "https://ashchain.io"
+}, {
   "name": "STB Testnet",
   "chainId": 50505,
   "shortName": "stb-testnet",
@@ -30015,6 +30041,19 @@
   "rpc": ["https://testnet.tscscan.io/testrpc"],
   "faucets": [],
   "infoURL": "https://www.trias.one"
+}, {
+  "name": "GembaBlockchain Testnet",
+  "chainId": 821207,
+  "shortName": "gembatest",
+  "networkId": 821207,
+  "nativeCurrency": {
+    "name": "Gemba",
+    "symbol": "GMB",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.gembascan.io/rpc", "https://rpc1.gembascan.io", "https://rpc2.gembascan.io"],
+  "faucets": [],
+  "infoURL": "https://gembachain.io"
 }, {
   "name": "CURVE Mainnet",
   "chainId": 827431,

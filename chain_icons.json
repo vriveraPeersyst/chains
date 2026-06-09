@@ -1791,6 +1791,14 @@
     "format": "png"
   }]
 }, {
+  "name": "gemba",
+  "icons": [{
+    "url": "ipfs://bafkreiaq324rpiikfjdho6p6sayvswdhihxaebzkooho6eisoko72jx2wu",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "battlechain",
   "icons": [{
     "url": "ipfs://bafkreiak3qxpg5epvquglvcxp2tqc3hth5wbqnztrncm6tdikxnhol4zqq",
@@ -2813,6 +2821,14 @@
     "width": 1417,
     "height": 1417,
     "format": "svg"
+  }]
+}, {
+  "name": "ashchain",
+  "icons": [{
+    "url": "ipfs://bafkreicjrtxoflhrnr4tvp76ba6p6oxd5lpan24nvaumnvvr7ffsx5ioym",
+    "width": 256,
+    "height": 256,
+    "format": "png"
   }]
 }, {
   "name": "access",
