@@ -5026,7 +5026,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": [],
+  "rpc": ["https://mainnet.battlechain.com"],
   "faucets": [],
   "infoURL": "https://battlechain.com"
 }, {
@@ -9332,6 +9332,19 @@
   "rpc": ["https://rpc.soneium.org"],
   "faucets": [],
   "infoURL": "https://soneium.org"
+}, {
+  "name": "Whitechain Sepolia",
+  "chainId": 1874,
+  "shortName": "wch-sepolia",
+  "networkId": 1874,
+  "nativeCurrency": {
+    "name": "WBT",
+    "symbol": "WBT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.whitechain.io"],
+  "faucets": ["https://faucet.testnet.whitechain.io"],
+  "infoURL": "https://docs.whitechain.io"
 }, {
   "name": "Whitechain",
   "chainId": 1875,
@@ -27347,7 +27360,7 @@
     "symbol": "JULIAN",
     "decimals": 18
   },
-  "rpc": ["https://indexer.mfenx.com/rpc"],
+  "rpc": ["https://rpc.mfenx.com"],
   "faucets": [],
   "infoURL": "https://mfenx.com/power-house"
 }, {
@@ -29002,6 +29015,19 @@
   "faucets": ["https://faucet.weelink.gw002.oneitfarm.com"],
   "infoURL": "https://weelink.cloud"
 }, {
+  "name": "Maroo Testnet",
+  "chainId": 450815,
+  "shortName": "maroo-testnet",
+  "networkId": 450815,
+  "nativeCurrency": {
+    "name": "Testnet OKRW",
+    "symbol": "tOKRW",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.maroo.io"],
+  "faucets": ["https://faucet.maroo.io"],
+  "infoURL": "https://maroo.io"
+}, {
   "name": "Patex Sepolia Testnet",
   "chainId": 471100,
   "shortName": "psep",
@@ -29885,6 +29911,19 @@
   "rpc": ["https://rpc.oonechain.com"],
   "faucets": [],
   "infoURL": "https://oonechain.com"
+}, {
+  "name": "Unitsky String Technologies",
+  "chainId": 778889,
+  "shortName": "ust",
+  "networkId": 778889,
+  "nativeCurrency": {
+    "name": "Unitsky Token",
+    "symbol": "UST",
+    "decimals": 18
+  },
+  "rpc": ["https://147-45-143-23.sslip.io/rpc"],
+  "faucets": [],
+  "infoURL": "https://147-45-143-23.sslip.io"
 }, {
   "name": "Zebro Smart Chain",
   "chainId": 786786,
@@ -31303,6 +31342,19 @@
   "faucets": [],
   "infoURL": "https://humanity.org"
 }, {
+  "name": "JMDT Mainnet",
+  "chainId": 7000700,
+  "shortName": "jmdt",
+  "networkId": 7000700,
+  "nativeCurrency": {
+    "name": "JMDT",
+    "symbol": "JMDT",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.jmdt.io", "https://mainnetrpc.jmdt.io"],
+  "faucets": [],
+  "infoURL": "https://jmdt.io"
+}, {
   "name": "Humanity Protocol testnet",
   "chainId": 7080969,
   "shortName": "thp",
@@ -31445,6 +31497,19 @@
   "rpc": ["https://rpc.makiai.app"],
   "faucets": [],
   "infoURL": "https://makiai.app"
+}, {
+  "name": "JMDT Testnet",
+  "chainId": 8000800,
+  "shortName": "tjmdt",
+  "networkId": 8000800,
+  "nativeCurrency": {
+    "name": "Test JMDT",
+    "symbol": "tJMDT",
+    "decimals": 18
+  },
+  "rpc": ["https://testnetrpc.jmdt.io"],
+  "faucets": ["https://faucet.jmdt.io"],
+  "infoURL": "https://jmdt.io"
 }, {
   "name": "Plian Mainnet Subchain 1",
   "chainId": 8007736,
